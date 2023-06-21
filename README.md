@@ -1,9 +1,7 @@
-### Hi there 👋
+# xingyueye5(Yiyang Zou)
 
-<!--
-**xingyueye5/xingyueye5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm now a bachelor student in Wuhan University, majoring in computer science and technology. Welcome to contact with me!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
