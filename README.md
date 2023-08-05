@@ -6,7 +6,7 @@ I'm now a bachelor student in Wuhan University, majoring in computer science and
 - 🔭 I’m currently working on light network machine learning frameworks.
 - 🌱 I’m currently learning Algorithms and Machine Learning
 - ❤️ I like travelling ✈️ bodybuilding 💪 and playing chess♟️!
-- ✨ Find more about me (Blogs Thoughts, etc) at my [personal website](https://zyy.top)!
+- ✨ Find more about me (Blogs Thoughts, etc) at my [personal website](https://xingyueye5.github.io)!
 
 知乎账号：星月夜
 
