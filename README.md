@@ -1,16 +1,12 @@
 # xingyueye5(Yiyang Zou)
 
 
-I'm now a bachelor student in Wuhan University, majoring in computer science and technology. Welcome to contact with me!
+I'm now a master student in Wuhan University, majoring in computer science and technology. Welcome to contact with me!
 
-- 🔭 I’m currently working on light network machine learning frameworks.
-- 🌱 I’m currently learning Algorithms and Machine Learning
+- 🔭 I’m currently working on vedio action anticipation, llms and agents.
 - ❤️ I like travelling ✈️ bodybuilding 💪 and playing chess♟️!
 - ✨ Find more about me (Blogs Thoughts, etc) at my [personal website](https://xingyueye5.github.io)!
 
-知乎账号：星月夜
-
-Wechat: yy17371067290
-
+email: zyy20020708@gmail.com
 Steam: 1141267989
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xingyueye5&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
